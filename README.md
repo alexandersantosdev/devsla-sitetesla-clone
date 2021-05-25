@@ -4,6 +4,14 @@
 
 - Utilizado animação em css para movimento da seta inferior indicativa de continuidade do site.
 
-[Desktop]('https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/full.png')
-[Tablet]('https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/tablet.png')
-[IPhone X]('https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/iphone.png')
+## Desktop version:
+
+![Desktop]('https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/full.png')
+
+## Table version
+
+![Tablet]('https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/tablet.png')
+
+## Mobile (IphoneX) version
+
+![IPhone X]('https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/iphone.png')
