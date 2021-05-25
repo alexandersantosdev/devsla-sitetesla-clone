@@ -8,7 +8,7 @@
 
 ![Desktop](https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/full.png)
 
-## Table version
+## Tablet version
 
 ![Tablet](https://github.com/alexandersantosdev/devsla-sitetesla-clone/blob/main/tablet.png)
 
